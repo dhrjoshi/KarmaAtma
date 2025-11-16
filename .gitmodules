@@ -1,0 +1,6 @@
+[submodule "Client"]
+	path = Client
+	url = git@github.com:dhrjoshi/KarmaAtma-Frontend.git
+[submodule "Server"]
+	path = Server
+	url = git@github.com:dhrjoshi/KarmaAtma-Backend.git
